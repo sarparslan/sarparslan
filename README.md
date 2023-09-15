@@ -1,6 +1,11 @@
 ### Hello there 👋
 
-<img align = "left" width = "50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarparslan&hide_progress=true" />
+<img align = "left" width = "47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarparslan&hide_progress=true" />
+
+
+<img align = "left" width = "49%" src="https://streak-stats.demolab.com/?user=sarparslan&theme=dark)](https://git.io/streak-stats" />
+
+
 
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
@@ -12,6 +17,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 
 
