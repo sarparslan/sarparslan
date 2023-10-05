@@ -9,16 +9,14 @@
 
 
 
+<img align = "left" width = "49%" src="https://www.codewars.com/users/sarp__arslan/badges/large" />
+
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-<img align = "left" width = "49%" src="https://www.codewars.com/users/sarp__arslan/badges/large" />
-
 
 
 <!--
