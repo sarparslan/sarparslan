@@ -15,12 +15,6 @@ Welcome to my GitHub profile! I'm passionate about mobile application developmen
 - 📝 Check out my latest articles and tutorials on [My Website](https:/sarparslan.com).
 - 💬 I'm always happy to chat about mobile app development, Flutter, FastAPI, Java, or anything tech-related.
 
-
-## Languages and Tools
-
-Here are some of the languages and tools I work with:## Languages and Tools
-
-Here are some of the languages and tools I work with:
 ## Languages and Tools
 
 Here are some of the languages and tools I work with:
