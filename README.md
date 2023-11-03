@@ -1,36 +1,33 @@
-### Hello there 👋
-### Contact : sarp.arslan.dev@gmail.com
+# Hi there, I'm Sarp 👋
 
-<img align = "left" width = "47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarparslan&hide_progress=true" />
+Welcome to my GitHub profile! I'm passionate about mobile application development, and I love working with a combination of technologies such as Flutter, FastAPI, Python, Java. Here's a little bit about me and what you can find in this repository:
 
+## About Me
 
-<img align = "left" width = "49%" src="https://streak-stats.demolab.com/?user=sarparslan&theme=dark)](https://git.io/streak-stats" />
-
-
-
+- 💼 I'm a 3rd grade Computer Engineering student  at TED University.
+- 🌱 I'm constantly learning and improving my skills in mobile app development and backend technologies.
 
 
+## Contact Me
+
+- 📫 You can reach me via email at sarp.arslan.dev@gmail.com
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/sarp-arslan-2897971bb/)
+- 📝 Check out my latest articles and tutorials on [My Website](https:/sarparslan.com).
+- 💬 I'm always happy to chat about mobile app development, Flutter, FastAPI, Java, or anything tech-related.
+
+## Languages and Tools
+
+Here are some of the languages and tools I work with:
+
+## Languages and Tools
+
+Here are some of the languages and tools I work with:## Languages and Tools
+
+Here are some of the languages and tools I work with:
+## Languages and Tools
+
+Here are some of the languages and tools I work with:
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 <img align = "left" width = "49%" src="https://www.codewars.com/users/sarp__arslan/badges/large" />
 
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-<!--
-**sarparslan/sarparslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
