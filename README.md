@@ -1,6 +1,6 @@
 # Hi there, I'm Sarp 👋
 
-Welcome to my GitHub profile! I'm passionate about mobile application development, and I love working with a combination of technologies such as Flutter, FastAPI, Python, Java. Here's a little bit about me and what you can find in this repository:
+Welcome to my GitHub profile! I'm passionate about mobile application development, and I love working with a combination of technologies such as Flutter, FastAPI, Python, Java. Here's a little bit about me :
 
 ## About Me
 
