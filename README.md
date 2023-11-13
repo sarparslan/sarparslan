@@ -12,7 +12,8 @@ Welcome to my GitHub profile! I'm passionate about mobile application developmen
 
 - 📫 You can reach me via email at sarp.arslan.dev@gmail.com
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/sarp-arslan-2897971bb/)
-- 📝 Check out my latest articles and tutorials on [My Website](https:/sarparslan.com).
+- 📝 Check out my latest articles and tutorials on [My Website](https:/sarparslan.com)
+- 📱 Check out my applications on the [App Store](https://apps.apple.com/us/developer/sarp-arslan/id1714067475)
 - 💬 I'm always happy to chat about mobile app development, Flutter, FastAPI, Java, or anything tech-related.
 
 ## Languages and Tools
