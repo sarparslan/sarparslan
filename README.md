@@ -23,27 +23,24 @@ Welcome to my GitHub profile! I'm passionate about mobile application developmen
 
 <p align="center">  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 
+<p align="center">
+</p>
+<img align="left" width="49%" src="https://www.codewars.com/users/sarp__arslan/badges/large" alt="Codewars Badge"/>
 
- <br />
-
- <p align="center">
- </p>
-<img align = "left" width = "49%" src="https://www.codewars.com/users/sarp__arslan/badges/large" alt="Codewars Badge"/>
-
- <br />
+<br />
 <!-- Stats and streaks aligned with graph and top langs -->
 <table>
   <tr>
     <td><a href="https://github.com/sarparslan">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarparslan&theme=radical&border=7F3FBF&background=0D1117" alt="Sarp's GitHub streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=sarparslan&theme=tokyonight&hide_border=true&border_radius=25&mode=weekly&exclude_days=Sun%2CSat&card_width=500&background=45%2C094A9F%2C49447E" alt="Sarp's GitHub streak" />
     </a></td>
     <td><a href="https://github.com/sarparslan">
-      <img src="https://github-readme-stats-dorukarslan.vercel.app/api?username=sarparslan&show_icons=true&theme=radical&count_private=true&border_color=7F3FBF" alt="Sarp's GitHub Stats" />
+      <img src="https://github-readme-stats-dorukarslan.vercel.app/api?username=sarparslan&show_icons=true&theme=tokyonight&count_private=true&border_color=7F3FBF" alt="Sarp's GitHub Stats" />
     </a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/sarparslan">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarparslan&theme=radical&border_color=7F3FBF" alt="Sarp's GitHub Contribution" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarparslan&theme=tokyonight&border_color=7F3FBF" alt="Sarp's GitHub Contribution" />
     </a></td>
     <td><a href="https://github.com/sarparslan/github-readme-stats">
       <img src="https://github-readme-stats-dorukarslan.vercel.app/api/top-langs/?username=sarparslan&langs_count=6&count_private=true&hide_progress=true&hide=Objective-C,assembly,TeX,HTML,jupyter%20notebook&theme=tokyonight&border_color=7F3FBF" alt="Sarp's Top Languages" />
