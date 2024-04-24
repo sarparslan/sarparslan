@@ -32,14 +32,19 @@ Welcome to my GitHub profile! I'm passionate about mobile application developmen
 <table>
   <tr>
     <td><a href="https://github.com/sarparslan">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=sarparslan&theme=tokyonight&hide_border=true&border_radius=25&mode=weekly&exclude_days=Sun%2CSat&card_width=500&background=45%2C094A9F%2C49447E" alt="Sarp's GitHub streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarparslan&theme=radical&border=7F3FBF&background=0D1117" alt="Sarp's GitHub streak" />
     </a></td>
     <td><a href="https://github.com/sarparslan">
-   
- <td><a href="https://github.com/sarparslan">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarparslan&theme=tokyonight&border_color=7F3FBF" alt="Sarp's GitHub Contribution" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sarparslan&show_icons=true&theme=radical&count_private=true&border_color=7F3FBF" alt="Doruk's GitHub Stats" />
     </a></td>
-    <td><a href="https://github.com/sarparslan/github-readme-stats">
-     </td>  </tr>
- 
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sarparslan">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarparslan&theme=radical&border_color=7F3FBF" alt="Doruk's GitHub Contribution" />
+    </a></td>
+    <td><a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sarparslan&langs_count=6&count_private=true&hide_progress=true&hide=Objective-C,assembly,TeX,HTML,jupyter%20notebook&theme=tokyonight&border_color=7F3FBF" alt="Doruk's Top Languages" />
+    </a></td>
+  </tr>
 </table>
+
