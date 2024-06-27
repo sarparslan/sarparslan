@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about mobile application developmen
 
 ## About Me
 
-- 💼 I'm a 3rd grade Computer Engineering student  at TED University.
+- 💼 I'm a 4th grade Computer Engineering student  at TED University.
 - 🌱 I'm constantly learning and improving my skills in mobile app development and backend technologies.
 
 
