@@ -1,14 +1,5 @@
 # Hello there, I'm Sarp 👋
 
-Welcome to my GitHub profile! I'm passionate about mobile application development, and I love working with a combination of technologies such as Flutter, FastAPI, Python, Java. Here's a little bit about me :
-
-## About Me
-
-- 💼 I'm a 4th grade Computer Engineering student  at TED University.
-- 🌱 I'm constantly learning and improving my skills in mobile app development and backend technologies.
-
-
-## Contact Me
 
 - 📫 You can reach me via email at sarp.arslan.dev@gmail.com
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/sarp-arslan-2897971bb/)
