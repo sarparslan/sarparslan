@@ -1,15 +1,4 @@
-# 🚀 Sarp Arslan  
-
-**Embedded Software Engineer | Electric Vehicle Control Systems | CAN Architecture**
-
-📍 Erfurt, Germany  
-📧 sarp.arslan.dev@gmail.com  
-🌐 https://sarparslan.com  
-🔗 https://www.linkedin.com/in/sarp-arslan-2897971bb/  
-💻 https://github.com/sarparslan  
-
----
-
+# Hello, I am Sarp Arslan 👋
 ## What I Do
 
 - Design and deploy production-grade vehicle control software  
