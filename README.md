@@ -11,6 +11,6 @@
 
 ## Tech Focus
 
-**Embedded:** CODESYS (IEC 61131-3 ST), TTC ECUs, MRS Gateway  
+**Embedded:** C, CODESYS (IEC 61131-3 ST), TTC ECUs, MRS Gateway  
 **Communication:** CAN, LIN, DBC Design  
 **Core Concepts:** Real-time control, State machines, Safety-oriented logic  
