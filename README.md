@@ -1,16 +1,39 @@
-# Hello, I am Sarp Arslan 👋
-## What I Do
-
-- Design and deploy production-grade vehicle control software  
-- Build real-time control logic on TTC ECUs using CODESYS  
-- Develop CAN-based distributed architectures & DBC designs  
-- Integrate electric powertrain, BMS, and charging systems  
-- Perform on-vehicle commissioning, flashing & live diagnostics  
+# Hi, I'm Sarp Arslan 👋
+Embedded Software Engineer focused on Electric Vehicles ⚡
 
 ---
 
-## Tech Focus
+## 🚗 What I Do
+
+- Develop vehicle control software for electric bus conversion platforms  
+- Implement real-time control logic on TTC ECUs using CODESYS (IEC 61131-3 ST)
+- Develop CAN gateway software on MRS Gateway using C   
+- Design CAN-based distributed systems and DBC architectures  
+- Integrate powertrain components (BMS, motor, charging systems)  
+- Perform on-vehicle commissioning, flashing, and live diagnostics  
+
+---
+
+## ⚡ Featured Projects
+
+- 🔧 **EV Powertrain Controller**  
+  Simulation of a Vehicle Control Unit (VCU) including torque control, regenerative braking and power distribution  
+
+- 🔌 **EV Charging Controller**  
+  Charging state machine implementation with BMS–EVSE communication and session lifecycle management  
+
+---
+
+## 🧠 Tech Focus
 
 **Embedded:** C, CODESYS (IEC 61131-3 ST), TTC ECUs, MRS Gateway  
-**Communication:** CAN, LIN, DBC Design  
-**Core Concepts:** Real-time control, State machines, Safety-oriented logic  
+**Communication:** CAN, LIN, J1939, DBC Design  
+**Concepts:** Real-time systems, State machines, Safety-oriented control  
+
+---
+
+## 🎯 Current Focus
+
+- Electric Vehicle Control Systems  
+- Charging Software & Energy Systems  
+- System Integration & Diagnostics  
