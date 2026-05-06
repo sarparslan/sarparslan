@@ -1,39 +1,48 @@
 # Hi, I'm Sarp Arslan 👋
-Embedded Software Engineer focused on Electric Vehicles ⚡
+Software Engineer focused on Embedded Systems, Electric Vehicles, and Real-Time Cloud Platforms ⚡
 
 ---
 
 ## 🚗 What I Do
 
-- Develop vehicle control software for electric bus conversion platforms  
+- Develop embedded control software for electric vehicle platforms
 - Implement real-time control logic on TTC ECUs using CODESYS (IEC 61131-3 ST)
-- Develop CAN gateway software on MRS Gateway using C   
-- Design CAN-based distributed systems and DBC architectures  
-- Integrate powertrain components (BMS, motor, charging systems)  
-- Perform on-vehicle commissioning, flashing, and live diagnostics  
+- Develop CAN-based gateway and communication software in C
+- Design CAN (J1939) and DBC-based distributed vehicle architectures
+- Integrate EV subsystems including charging, BMS, and powertrain systems
+- Build telemetry and real-time data processing systems for vehicle monitoring
+- Develop backend microservices and cloud-native infrastructure for fleet analytics
+- Perform vehicle diagnostics, ECU flashing, and on-vehicle system integration
 
 ---
 
 ## ⚡ Featured Projects
 
-- 🔧 **EV Powertrain Controller**  
-  Simulation of a Vehicle Control Unit (VCU) including torque control, regenerative braking and power distribution  
+### 🔧 EV Powertrain Controller
+Real-time vehicle control simulation including torque control, regenerative braking, and SOC-based energy management.
 
-- 🔌 **EV Charging Controller**  
-  Charging state machine implementation with BMS–EVSE communication and session lifecycle management  
+### 🔌 EV Charging Controller
+EV charging control implementation including precharge sequencing, contactor control, insulation monitoring, and charging workflows.
 
 ---
 
 ## 🧠 Tech Focus
 
-**Embedded:** C, CODESYS (IEC 61131-3 ST), TTC ECUs, MRS Gateway  
-**Communication:** CAN, LIN, J1939, DBC Design  
-**Concepts:** Real-time systems, State machines, Safety-oriented control  
+### Embedded & Automotive
+C, CODESYS (IEC 61131-3 ST), TTC ECUs, MRS Gateway, CAN, J1939, DBC, Real-Time Systems
+
+### Backend & Cloud
+FastAPI, WebSockets, MQTT, Docker, Kubernetes, Terraform, AWS
+
+### Tools
+Vector CANalyzer, Peak Analyzer, Git, Linux
 
 ---
 
 ## 🎯 Current Focus
 
-- Electric Vehicle Control Systems  
-- Charging Software & Energy Systems  
-- System Integration & Diagnostics  
+- Embedded Software Engineering
+- Electric Vehicle Control Systems
+- Real-Time Telemetry Platforms
+- Cloud-Native Backend Systems
+- Automotive Communication & Diagnostics
