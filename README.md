@@ -31,9 +31,6 @@ EV charging control implementation including precharge sequencing, contactor con
 ### Embedded & Automotive
 C, CODESYS (IEC 61131-3 ST), TTC ECUs, MRS Gateway, CAN, J1939, DBC, Real-Time Systems
 
-### Backend & Cloud
-FastAPI, WebSockets, MQTT, Docker, Kubernetes, Terraform, AWS
-
 ### Tools
 Vector CANalyzer, Peak Analyzer, Git, Linux
 
