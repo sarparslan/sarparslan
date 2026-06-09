@@ -1,45 +1,38 @@
 # Hi, I'm Sarp Arslan 👋
-Software Engineer focused on Embedded Systems, Electric Vehicles, and Real-Time Cloud Platforms ⚡
+
+Embedded Software Engineer focused on low-level firmware, real-time control systems, automotive communication, and electric vehicle platforms.
 
 ---
 
-## 🚗 What I Do
+## 🔧 What I Do
 
-- Develop embedded control software for electric vehicle platforms
-- Implement real-time control logic on TTC ECUs using CODESYS (IEC 61131-3 ST)
-- Develop CAN-based gateway and communication software in C
-- Design CAN (J1939) and DBC-based distributed vehicle architectures
-- Integrate EV subsystems including charging, BMS, and powertrain systems
-- Build telemetry and real-time data processing systems for vehicle monitoring
-- Develop backend microservices and cloud-native infrastructure for fleet analytics
-- Perform vehicle diagnostics, ECU flashing, and on-vehicle system integration
+- Develop embedded control software for real-world vehicle platforms
+- Build real-time control logic for EV subsystems including powertrain, charging, energy management, and diagnostics
+- Develop low-level CAN/J1939 gateway and communication software in C
+- Work with DBC-based signal architectures, signal routing, timeout handling, and fault detection
+- Integrate EV subsystems including charging, BMS, powertrain, contactor control, and precharge workflows
+- Work on STM32-based embedded development with GPIO, timers, interrupts, ADC, PWM, UART, SPI, and I2C
+- Perform vehicle diagnostics, signal analysis, ECU flashing, bring-up, and on-vehicle integration
+- Build reliable embedded systems that connect low-level software, real-time communication, and hardware-level control
 
 ---
 
 ## ⚡ Featured Projects
 
 ### 🔧 EV Powertrain Controller
-Real-time vehicle control simulation including torque control, regenerative braking, and SOC-based energy management.
+
+C-based real-time vehicle control simulation including torque control, regenerative braking, and SOC-based energy management.
 
 ### 🔌 EV Charging Controller
-EV charging control implementation including precharge sequencing, contactor control, insulation monitoring, and charging workflows.
 
----
-
-## 🧠 Tech Focus
-
-### Embedded & Automotive
-C, CODESYS (IEC 61131-3 ST), TTC ECUs, MRS Gateway, CAN, J1939, DBC, Real-Time Systems
-
-### Tools
-Vector CANalyzer, Peak Analyzer, Git, Linux
+EV charging control implementation covering precharge sequencing, contactor control, insulation monitoring, fault handling, and charging workflows.
 
 ---
 
 ## 🎯 Current Focus
 
 - Embedded Software Engineering
-- Electric Vehicle Control Systems
-- Real-Time Telemetry Platforms
-- Cloud-Native Backend Systems
-- Automotive Communication & Diagnostics
+- STM32 and low-level firmware development
+- Bare-metal programming and RTOS concepts
+- Automotive communication and diagnostics
+- Electric vehicle control systems
