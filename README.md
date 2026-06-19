@@ -1,38 +1,38 @@
-# Hi, I'm Sarp Arslan 👋
+# Hi, I'm Sarp 👋
 
-Embedded Software Engineer focused on low-level firmware, real-time control systems, automotive communication, and electric vehicle platforms.
+Embedded Software Engineer focused on low-level firmware and real-time systems.
 
 ---
 
 ## 🔧 What I Do
 
-- Develop embedded control software for real-world vehicle platforms
-- Build real-time control logic for EV subsystems including powertrain, charging, energy management, and diagnostics
-- Develop low-level CAN/J1939 gateway and communication software in C
-- Work with DBC-based signal architectures, signal routing, timeout handling, and fault detection
-- Integrate EV subsystems including charging, BMS, powertrain, contactor control, and precharge workflows
-- Work on STM32-based embedded development with GPIO, timers, interrupts, ADC, PWM, UART, SPI, and I2C
-- Perform vehicle diagnostics, signal analysis, ECU flashing, bring-up, and on-vehicle integration
-- Build reliable embedded systems that connect low-level software, real-time communication, and hardware-level control
+- Develop embedded software in C/C++
+- Work with STM32 microcontrollers and peripherals such as GPIO, timers, interrupts, ADC, PWM, UART, SPI, and I2C
+- Work with DBC signals, timeout handling, fault detection, and diagnostics
+- Analyze CAN logs and communication issues during testing
+- Previously worked on real-time embedded software for electric vehicle platforms, focusing on powertrain, charging, and CAN/J1939 communication.
 
 ---
 
-## ⚡ Featured Projects
+## 🛠 Tech Stack
 
-### 🔧 EV Powertrain Controller
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,bash,vscode,arduino,eclipse&perline=9" />
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Codesys%20Logo.svg?width=110" height="42" alt="CODESYS" />
 
-C-based real-time vehicle control simulation including torque control, regenerative braking, and SOC-based energy management.
+</p>
 
-### 🔌 EV Charging Controller
+<p align="left">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeRTOS-111111?style=for-the-badge&logo=freertos&logoColor=white" />
+  <img src="https://img.shields.io/badge/CAN%20Bus-1E1E1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/J1939-1E1E1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C-1E1E1E?style=for-the-badge" />
+</p>
 
-EV charging control implementation covering precharge sequencing, contactor control, insulation monitoring, fault handling, and charging workflows.
-
----
-
-## 🎯 Current Focus
-
-- Embedded Software Engineering
-- STM32 and low-level firmware development
-- Bare-metal programming and RTOS concepts
-- Automotive communication and diagnostics
-- Electric vehicle control systems
+<p align="left">
+  <img src="https://img.shields.io/badge/IEC%2061131--3%20Structured%20Text-1E1E1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PEAK--CAN%20View-1E1E1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20CANalyzer-1E1E1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISO%2026262-1E1E1E?style=for-the-badge" />
+</p>
